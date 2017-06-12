@@ -22,3 +22,6 @@ In the above example, the returned values are
 [1, 2, 1, 4] 
 ```
 
+## Warning :
+* Does not play well with NaN values or missing data. 
+    * Use Imputer from sklearn.preprocessing. Check individual note for more details.
