@@ -42,7 +42,7 @@ One Hot Encoding
 
 ```
 
-#### Code
+> #### Code
 
 ```python
 import numpy as np
